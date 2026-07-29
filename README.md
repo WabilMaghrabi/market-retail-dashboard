@@ -30,4 +30,4 @@ An interactive, end-to-end Power BI dashboard analyzing retail store operations,
 ![Customers Analysis](market-screenshots/Customers.png)
 
 ### 5. Returns Analysis
-![Returns Analysis](market-screenshots/UpdatedReturns.png)
+![Returns Analysis](market-screenshots/Updated%20Returns.png)
