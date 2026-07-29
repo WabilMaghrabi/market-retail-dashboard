@@ -1,21 +1,21 @@
 # market-retail-dashboard
-## 📌 Project Overview
+##  Project Overview
 An interactive, end-to-end Power BI dashboard analyzing retail store operations, customer sales trends, product performance, and return rate drivers to support data-driven business decisions.
 
-## 🔑 Key Features & Insights
+##  Key Features & Insights
 * **Executive Summary:** Overview of total revenue, profit margins, and sales targets.
 * **Product Analytics:** Categorizing items by price tiers using custom DAX logic to identify best-selling products.
 * **Customer Insights:** Demographics and purchasing behavior analysis.
 * **Return Analysis:** Deep dive into product returns across brands, categories, and regions to minimize losses.
 
-## 🛠️ Tools & Technologies Used
+##  Tools & Technologies Used
 * **Power BI Desktop**
 * **DAX (Data Analysis Expressions)**
 * **Power Query** (Data Cleaning & Transformation)
 
 ---
 
-## 📷 Dashboard Screenshots
+##  Dashboard Screenshots
 
 ### 1. Home Page
 ![Home Page](market-screenshots/Home%20Page.png)
