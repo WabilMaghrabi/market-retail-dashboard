@@ -31,3 +31,7 @@ An interactive, end-to-end Power BI dashboard analyzing retail store operations,
 
 ### 5. Returns Analysis
 ![Returns Analysis](market-screenshots/Updated%20Returns.png)
+
+## Project Files
+-  **[Download / View Excel Workbook](Maven%20Market%20Retail%20Dashboard.pbix)** *(Full interactive dashboard)*
+
